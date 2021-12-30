@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+
 import "./App.css";
 import useRandomJoke from "./useRandomJoke";
 import { useRef, useState } from "react";
