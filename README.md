@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with joke-generator-App
+
+deployment URL : https://joke-generator-ani-shres.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
