@@ -1,4 +1,3 @@
-
 import "./App.css";
 import useRandomJoke from "./useRandomJoke";
 import { useRef, useState } from "react";
@@ -41,10 +40,11 @@ function App() {
             // value={lastName}
             // onChange={(e) => e.target.value}
           />
+          <br/>
+          <button className="App--header--button" onClick={generateJoke}>
+            generate joke
+          </button>
         </form>
-        <button className="App--header--button" onClick={generateJoke}>
-          generate joke
-        </button>
       </header>
     </div>
   );
